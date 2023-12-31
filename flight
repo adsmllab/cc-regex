@@ -1,0 +1,2 @@
+departure_timings__c<NOW ()
+Source__c = Destination__c
