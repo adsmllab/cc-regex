@@ -1,0 +1,1 @@
+NOT(BEGINS(ID__c,’ART’))
